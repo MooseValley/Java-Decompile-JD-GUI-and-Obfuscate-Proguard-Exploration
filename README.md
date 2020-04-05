@@ -1,5 +1,5 @@
 # Java Decompile (JD-GUI) and Obfuscate (Proguard) Exploration
-## with Moose O'Malley
+with Moose O'Malley
 
 ## Youtube video:
 https://youtu.be/ZhyAA4F087A
@@ -47,15 +47,5 @@ My Java Software Development YouTube channel:
 My web page:
 * Moose's Software Valley - Established July, 1996.
 https://rebrand.ly/MoosesSoftware
-
-
-Playlists:	Java Software Development
-
-Tags
-	Java, Programming, Software Development, Obfuscate, Obfuscator, Obfuscation, Decompile, Decompiler, Decompilation, Proguard, JDGUI, JD-GUI, JD GUI, anti-theft, protect your code, protect your code from thieves, code protection, optimisation, shrinking, shrink,
-
-Recording Date:	5-Apr-2020
-Category:	Education
-
 
 
