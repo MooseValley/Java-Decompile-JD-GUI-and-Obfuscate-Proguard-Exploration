@@ -1,0 +1,158 @@
+/API/
+/APIs/
+/map/
+/data/
+/PuTTY Connect Script/
+/00 - Info, articles
+/00 - Work Files
+/00*
+/Articles
+/ASGS
+/banners
+/Centacare YouTube
+/Change Requests
+/Data Issues Dashboard
+/Data Snapshots
+/Downloads
+/Downloads_Test
+/Emails
+/Emails and Tickets
+/Emoji*
+/Error Logs
+/ET - TAS - Audio only
+/Excel
+/File Permissions
+/Font
+/Format - v2
+/icons
+/Java Dialogs - get focus/
+/Java Web Start
+/lib/*.log
+/lib/*.txt
+/LOG Files
+/logos/OLD
+/logs
+/Maps
+/Meetings
+/moods
+/NDIS Guides
+/NEW - to be added
+/OLD
+/Old, Superceeded
+/Other
+/Other
+/Outputs
+/Pics
+/pics
+/Primes*
+/Ramon - GL Codes Cheat Sheet
+/Ramon's Sample Files*
+/Reference Files
+/Reference Files - OLD
+/Rollout
+/samples
+/Screen Shots
+/Screen Shots
+/Sounds
+/SQL - WIP
+/SQL and udfs
+/SQL Other
+/SQL/00*.*
+/SQL/OLD
+/SQL/Old, Not Used
+/SQL_History
+/Table Backups
+/TEST - 2018-11
+/TEST - OLD
+/TEST*
+/Tickets
+/tlkclint
+/tlkclint_conv2
+/Top 10
+/TRACCS DSS DEX
+/Trid
+/Tweak Files
+/User Security settings COPY User1 to User2/OLD
+/wallpapers
+/XML*
+/Yahtzee - Delphi
+/Yahtzee - info
+
+#*.html
+#*Run*.bat
+#*run*.bat
+*- v*.jar
+*.7z
+*.class
+*.clst
+*.csv
+*.doc
+*.docx
+*.ini
+*.jpg
+*.lnk
+*.lst
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.xml
+*.zip
+*00 - Merge ALL*.bat
+*00 - Merge ALL*.txt
+*_v*.jar
+*HighScoreTable.txt
+*log*.txt
+*log.txt
+*passwords*.txt
+*proguard*.*
+*TEST.jar
+00 - BriNAS link.txt
+00 - BRITS3, etc server links.txt
+00 - Java cleanup.bat
+00 - Migration Steps - OLD Tables, OLD Data.txt
+00 - notes.txt
+00 - possible TODO changes.txt
+00 - Production Folder.txt
+00 - Remon's folder location.txt
+00 - Training Video*.*
+00*.*
+00__Create_JAR_Files__v3,1.bat
+00__Java_cleanup.bat
+00__List_Users_On_Server.bat
+2019-01-22 - Issues for ET.txt
+2019-06-13 - GIT - initial commit.txt
+ABC.java
+Active HCP Clients - Mike's Notes, SQL.txt
+Case Managers and count of Active Clients.txt
+CaseIDs__Outlet_ActivityID_cannot_be_updated.txt
+CaseManagerClientDifferences.java.txt
+Centacare Logo RGB Colours.txt
+CentacareCQ testimonies*.txt
+CentacareDashboard - z - To Do, ideas for extra features.txt
+Class Summaries - UML Class Diagrams.txt
+clients - 100 test data clients.txt
+DSS_DEX__Lookup__Code_List - sorted.txt
+End_User_File_Lister_Updater - Benchmark*.txt
+Error*.txt
+error*.txt
+error_log*.txt
+GL Codes.txt
+HighScoreTable.txt
+HighScoreTableGUI*.*
+html.txt
+keywords*.txt
+NDISPriceGuideRecord.txt
+NDISServiceBookingsController.java.txt
+New Text Document.txt
+PaymentReceiptSystem - notes, updates, TO DO.txt
+PaymentReceiptSystem__ERROR_LOG.txt
+problem emails analysis.txt
+quotes*.txt
+Results*.txt
+Week*.txt
+week*.txt
+pi-million.txt
+pi-billion.txt
+
+*.lnk
