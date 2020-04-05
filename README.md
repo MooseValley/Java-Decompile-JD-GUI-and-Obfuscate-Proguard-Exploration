@@ -35,7 +35,7 @@ so we can explore the commands and see what's going on.
 * Additional classes ?
 * More complex examples ?
 * Deeper exploration of the results, the settings, etc ?
-* Yes, you know what to do ... hint: watch the end of the video:
+* Yes ?? Well you know what to do ... Hint: watch the end of the video:
 https://youtu.be/ZhyAA4F087A
 
 
@@ -55,9 +55,9 @@ https://rebrand.ly/MoosesSoftware
 Playlists:	Java Software Development
 
 Tags
-	Java, Programming, Software Development, Console Applications, Java Basics, loops, Scanner, user input validation, Validating user input, loops, Arithmetic operators. for loop, while loop, do while loop
+	Java, Programming, Software Development, Obfuscate, Obfuscator, Obfuscation, Decompile, Decompiler, Decompilation, Proguard, JDGUI, JD-GUI, JD GUI, anti-theft, protect your code, protect your code from thieves, code protection, optimisation, shrinking, shrink,
 
-Recording Date:	1-Apr-2020
+Recording Date:	5-Apr-2020
 Category:	Education
 
 
