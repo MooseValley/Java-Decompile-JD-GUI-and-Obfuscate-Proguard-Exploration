@@ -1,5 +1,5 @@
 # Java Decompile (JD-GUI) and Obfuscate (Proguard) Exploration
-##with Moose O'Malley
+## with Moose O'Malley
 
 ## Youtube video:
 https://youtu.be/ZhyAA4F087A

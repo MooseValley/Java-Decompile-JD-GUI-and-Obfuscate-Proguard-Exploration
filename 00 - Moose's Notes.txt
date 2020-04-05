@@ -1,5 +1,4 @@
 Java - Decompile (JD-GUI) and Obfuscate (Proguard) Exploration
-
 with Moose O'Malley
 
 * Start with a really simple Java GUI application
