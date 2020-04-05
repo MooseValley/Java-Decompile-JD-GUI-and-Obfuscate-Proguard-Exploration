@@ -38,9 +38,6 @@ so we can explore the commands and see what's going on.
 * Yes ?? Well you know what to do ... Hint: watch the end of the video:
 https://youtu.be/ZhyAA4F087A
 
-
-Moose O'Malley
-
 My Github where you can find the source code:
 * https://github.com/MooseValley/Java-Decompile-JD-GUI-and-Obfuscate-Proguard-Exploration
 
