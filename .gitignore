@@ -105,8 +105,15 @@
 *log*.txt
 *log.txt
 *passwords*.txt
-*proguard*.*
-*TEST.jar
+
+# Proguard:
+*proguard*.pro
+#TEST.jar
+*__DEVTEST.jar
+# !*proguard.jar = Include ALL Proguarded JAR files
+!*proguard.jar
+AppRunGUI.jar
+
 00 - BriNAS link.txt
 00 - BRITS3, etc server links.txt
 00 - Java cleanup.bat
